@@ -9,7 +9,7 @@ using ContosoCrafts.WebSite.Services;
 namespace ContosoCrafts.WebSite.Pages
 {
     /// <summary>
-    /// Professor Mike Koenig November
+    /// Professor Mike Koenig December
     /// </summary>
     public class IndexModel : PageModel
     {
