@@ -9,7 +9,11 @@ using ContosoCrafts.WebSite.Services;
 namespace ContosoCrafts.WebSite.Pages
 {
     /// <summary>
+<<<<<<< Updated upstream
     /// Professor Mike Koenig December 29 1993
+=======
+    /// Professor Mike Koenig December 29 2003
+>>>>>>> Stashed changes
     /// </summary>
     public class IndexModel : PageModel
     {
